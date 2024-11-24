@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm İclal Kayacan
+**Software Engineer | Full Stack Developer**
 
-<!--
-**iclalKayacan/iclalKayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my profile! Here are some highlights of my work:
+- 🔭 I'm currently working on **web development projects**.
+- 🌱 I'm learning and improving my skills in **React, Next.js, and Tailwind CSS**.
+- ✨ I love turning ideas into reality with clean and efficient code.
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/iclal-kayacan-0s5b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats:
+![İclal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclalKayacan&show_icons=true&theme=radical)
