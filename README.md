@@ -9,7 +9,3 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/iclal-kayacan-0s5b)
 
----
-
-### 📊 GitHub Stats:
-![İclal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iclalKayacan&show_icons=true&theme=radical)
