@@ -9,3 +9,11 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://linkedin.com/in/iclal-kayacan-0s5b)
 
+### 🛠️ Technologies & Tools I Use:
+- **Languages:** JavaScript, C# 
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** .NET
+- **Databases:** SQL, Firebase
+- **Version Control:** Git, GitHub
+- **Tools:** Visual Studio, VS Code, Postman
+
