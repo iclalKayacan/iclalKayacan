@@ -3,7 +3,7 @@
 
 🌟 Welcome to my profile! Here are some highlights of my work:
 - 🔭 I'm currently working on **web development projects** .
-- 🌱 I'm learning and improving my skills in **React, Next.js, C# and .NET **.
+- 🌱 I'm learning and improving my skills in **React, Next.js, C# and .NET**.
 - ✨ I love turning ideas into reality with clean and efficient code.
 
 ### 🌐 Connect with me:
